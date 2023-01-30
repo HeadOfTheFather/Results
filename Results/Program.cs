@@ -1,1 +1,1 @@
-﻿
+﻿string[] strings = { "You", "Hello", "the","World", "morethen3","23461", "bes", "t!!","stillmore" }; 
